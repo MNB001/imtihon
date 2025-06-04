@@ -1,0 +1,36 @@
+.yashil{
+    background-color: rgb(60, 175, 60);
+    height: 300px;
+    text-align:center ;
+    color: white
+}
+p{
+    text-align:center ;
+}
+img{
+    width: 300px;
+
+}
+.inpt{
+    height: 100px;
+}
+button{
+    background-color: rgb(30, 186, 30);
+    width: 100px;
+    
+}
+.f1{
+    text-align: left;
+}
+.ifrm{
+    width: 800px;
+}
+table{
+    width: 500px;
+    text-align: left;
+}
+h4{
+    background-color: rgb(62, 63, 63);
+    color: white;
+    text-align: center;
+}
